@@ -1,4 +1,4 @@
-# feace_estimation_detection-
+# face_estimation_detection-
 Real-time face distance estimation using computer vision and facial landmark detection.
 # Monocular Face Distance Estimation
 
